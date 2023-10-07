@@ -1,0 +1,4 @@
+aiogram @ https://github.com/aiogram/aiogram/archive/refs/heads/dev-3.x.zip
+APScheduler==3.10.4
+psycopg2==2.9.7
+python-dotenv==1.0.0
